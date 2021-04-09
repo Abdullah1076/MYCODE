@@ -1,0 +1,25 @@
+D:\SP21BCS002\Order Your Meal\bin\Debug\Order Your Meal.exe.config
+D:\SP21BCS002\Order Your Meal\bin\Debug\Order Your Meal.exe
+D:\SP21BCS002\Order Your Meal\bin\Debug\Order Your Meal.pdb
+D:\SP21BCS002\Order Your Meal\bin\Debug\Microsoft.Data.Sqlite.dll
+D:\SP21BCS002\Order Your Meal\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\SP21BCS002\Order Your Meal\bin\Debug\SQLitePCLRaw.core.dll
+D:\SP21BCS002\Order Your Meal\bin\Debug\SQLitePCLRaw.provider.winsqlite3.dll
+D:\SP21BCS002\Order Your Meal\bin\Debug\System.Buffers.dll
+D:\SP21BCS002\Order Your Meal\bin\Debug\System.Memory.dll
+D:\SP21BCS002\Order Your Meal\bin\Debug\System.Numerics.Vectors.dll
+D:\SP21BCS002\Order Your Meal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\SP21BCS002\Order Your Meal\bin\Debug\Microsoft.Data.Sqlite.xml
+D:\SP21BCS002\Order Your Meal\bin\Debug\System.Buffers.xml
+D:\SP21BCS002\Order Your Meal\bin\Debug\System.Memory.xml
+D:\SP21BCS002\Order Your Meal\bin\Debug\System.Numerics.Vectors.xml
+D:\SP21BCS002\Order Your Meal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\SP21BCS002\Order Your Meal\obj\Debug\Order Your Meal.csprojAssemblyReference.cache
+D:\SP21BCS002\Order Your Meal\obj\Debug\Order_Your_Meal.Properties.Resources.resources
+D:\SP21BCS002\Order Your Meal\obj\Debug\Order Your Meal.csproj.GenerateResource.cache
+D:\SP21BCS002\Order Your Meal\obj\Debug\Order Your Meal.csproj.CoreCompileInputs.cache
+D:\SP21BCS002\Order Your Meal\obj\Debug\Order Your Meal.csproj.CopyComplete
+D:\SP21BCS002\Order Your Meal\obj\Debug\Order Your Meal.exe
+D:\SP21BCS002\Order Your Meal\obj\Debug\Order Your Meal.pdb
+D:\SP21BCS002\Order Your Meal\bin\Debug\meal.db
+D:\SP21BCS002\Order Your Meal\obj\Debug\Order_Your_Meal.Form1.resources
