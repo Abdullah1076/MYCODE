@@ -1,0 +1,36 @@
+C:\Users\Fahad Mughal\source\repos\Bookshop\bin\Debug\Bookshop.exe.config
+C:\Users\Fahad Mughal\source\repos\Bookshop\bin\Debug\Bookshop.exe
+C:\Users\Fahad Mughal\source\repos\Bookshop\bin\Debug\Bookshop.pdb
+C:\Users\Fahad Mughal\source\repos\Bookshop\obj\Debug\Bookshop.Properties.Resources.resources
+C:\Users\Fahad Mughal\source\repos\Bookshop\obj\Debug\Bookshop.csproj.GenerateResource.cache
+C:\Users\Fahad Mughal\source\repos\Bookshop\obj\Debug\Bookshop.csproj.CoreCompileInputs.cache
+C:\Users\Fahad Mughal\source\repos\Bookshop\obj\Debug\Bookshop.exe
+C:\Users\Fahad Mughal\source\repos\Bookshop\obj\Debug\Bookshop.pdb
+C:\Users\Fahad Mughal\source\repos\Bookshop\obj\Debug\Bookshop.csprojAssemblyReference.cache
+C:\Users\Fahad Mughal\source\repos\Bookshop\obj\Debug\Bookshop.Supplier.resources
+C:\Users\Fahad Mughal\source\repos\Bookshop\obj\Debug\Bookshop.Employees.resources
+C:\Users\Fahad Mughal\source\repos\Bookshop\obj\Debug\Bookshop.Customers_Details.resources
+C:\Users\Fahad Mughal\source\repos\Bookshop\obj\Debug\Bookshop.Orders.resources
+C:\Users\Fahad Mughal\source\repos\Bookshop\obj\Debug\Bookshop.Menu.resources
+C:\Users\Fahad Mughal\source\repos\Bookshop\obj\Debug\Bookshop.Stock.resources
+C:\Users\Fahad Mughal\source\repos\Bookshop\obj\Debug\Bookshop.Bills.resources
+C:\Users\Fahad Mughal\source\repos\Bookshop\obj\Debug\Bookshop.Payments.resources
+C:\Users\Fahad Mughal\source\repos\Bookshop\obj\Debug\Bookshop.ReturnedOrders.resources
+C:\Users\HAMMAD ALI\Desktop\bookshop-management-system-main\bookshop-management-system-main\Bookshop Management System\bin\Debug\Bookshop.exe.config
+C:\Users\HAMMAD ALI\Desktop\bookshop-management-system-main\bookshop-management-system-main\Bookshop Management System\bin\Debug\Bookshop.exe
+C:\Users\HAMMAD ALI\Desktop\bookshop-management-system-main\bookshop-management-system-main\Bookshop Management System\bin\Debug\Bookshop.pdb
+C:\Users\HAMMAD ALI\Desktop\bookshop-management-system-main\bookshop-management-system-main\Bookshop Management System\obj\Debug\Bookshop.csproj.AssemblyReference.cache
+C:\Users\HAMMAD ALI\Desktop\bookshop-management-system-main\bookshop-management-system-main\Bookshop Management System\obj\Debug\Bookshop.Bills.resources
+C:\Users\HAMMAD ALI\Desktop\bookshop-management-system-main\bookshop-management-system-main\Bookshop Management System\obj\Debug\Bookshop.Customers_Details.resources
+C:\Users\HAMMAD ALI\Desktop\bookshop-management-system-main\bookshop-management-system-main\Bookshop Management System\obj\Debug\Bookshop.Employees.resources
+C:\Users\HAMMAD ALI\Desktop\bookshop-management-system-main\bookshop-management-system-main\Bookshop Management System\obj\Debug\Bookshop.Payments.resources
+C:\Users\HAMMAD ALI\Desktop\bookshop-management-system-main\bookshop-management-system-main\Bookshop Management System\obj\Debug\Bookshop.ReturnedOrders.resources
+C:\Users\HAMMAD ALI\Desktop\bookshop-management-system-main\bookshop-management-system-main\Bookshop Management System\obj\Debug\Bookshop.Stock.resources
+C:\Users\HAMMAD ALI\Desktop\bookshop-management-system-main\bookshop-management-system-main\Bookshop Management System\obj\Debug\Bookshop.Menu.resources
+C:\Users\HAMMAD ALI\Desktop\bookshop-management-system-main\bookshop-management-system-main\Bookshop Management System\obj\Debug\Bookshop.Orders.resources
+C:\Users\HAMMAD ALI\Desktop\bookshop-management-system-main\bookshop-management-system-main\Bookshop Management System\obj\Debug\Bookshop.Properties.Resources.resources
+C:\Users\HAMMAD ALI\Desktop\bookshop-management-system-main\bookshop-management-system-main\Bookshop Management System\obj\Debug\Bookshop.Supplier.resources
+C:\Users\HAMMAD ALI\Desktop\bookshop-management-system-main\bookshop-management-system-main\Bookshop Management System\obj\Debug\Bookshop.csproj.GenerateResource.cache
+C:\Users\HAMMAD ALI\Desktop\bookshop-management-system-main\bookshop-management-system-main\Bookshop Management System\obj\Debug\Bookshop.csproj.CoreCompileInputs.cache
+C:\Users\HAMMAD ALI\Desktop\bookshop-management-system-main\bookshop-management-system-main\Bookshop Management System\obj\Debug\Bookshop.exe
+C:\Users\HAMMAD ALI\Desktop\bookshop-management-system-main\bookshop-management-system-main\Bookshop Management System\obj\Debug\Bookshop.pdb
